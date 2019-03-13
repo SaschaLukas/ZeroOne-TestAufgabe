@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "~2.0",
+        "akrabat/rka-slim-controller": "^2.0",
+        "katzgrau/klogger": "^1.2.1"
+    }
+}
